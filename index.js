@@ -22,7 +22,7 @@ class LikeButton extends React.Component {
 }
 
 const menu = [
-  "Gratin de crozet (50g par personne) aux brocolis et escalope de volaille",
+  "Gratin de crozet (50g par personne) aux brocolis + escalope de volaille",
   "Risotto (50g cru par personne) de légumes + poulet",
   "Frites de patates douces (200g cru) et poulet rôti",
   "Tagliatelles (150g cuits) au saumon + légumes",
