@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  height: 100vh;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  /* background-color: rgb(230, 223, 206) !important; */
+  background-image: url(./components/img/meal2.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  @media (max-height: 100vh) {
+    body {
+      height: 100vh;
+    }
+  }
+}
+
+.my_menu_card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
