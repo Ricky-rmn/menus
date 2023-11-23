@@ -28,7 +28,7 @@ const menu = [
   "Tagliatelles (150g cuits) au saumon + légumes",
   "Butternut, lentilles corail (100g cru) et lait de coco",
   "Gnocchis (150g à 200g crus) à la sauce tomate et paupiette de veau",
-  "Chou fleur et pomme de terre (200g cru + rôti",
+  "Chou fleur et pomme de terre (200g cru + rôti)",
   "Tomates farcies + viande hachée + riz (50g cru",
   "Pois chiches (150g en boite) aux légumes + poulet",
   "4 falafels, sauce tomate et salade",
